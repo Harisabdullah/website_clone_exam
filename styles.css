@@ -1,0 +1,125 @@
+.header{
+    background-color: #e1f4da;
+}
+body{
+    background-color: #d4e3e4;
+}
+.flag{
+    background-color: #d0eec7;
+}
+.header-flag-uk{
+    width: 1rem;
+
+}
+.logo{
+    width: 10%;
+}
+.main{
+    background-color: #f1faee;
+    padding: 1% 10%;
+}
+
+.navbar{
+    background: #003049;
+    padding: 0 10%;
+    align-items: center;
+}
+
+.navbar li{
+    padding: 0 1rem;
+}
+
+.navbar > div{
+    padding: 0 9%;
+}
+
+.navbar a{
+    color: #f1faee;
+}
+
+.nav-icons{
+    width: 40%;
+}
+
+.content{
+    padding: 0 10%;
+    margin-bottom: 5%;
+}
+
+.form{
+    border: 5px solid #003049;
+    border-radius: 10px;
+    color: #003049;
+}
+
+.form-elements > input{
+    margin-bottom: 2%;
+    color: #474747;
+    background: rgba(51,51,51,.1);
+}
+
+.affiliate{
+    width: 50%;
+}
+
+.affiliate > .label{
+    background-color: #40938c;
+    padding: 1% 2%;
+    color: #f1faee;
+    border-radius: 5px 0px 0px 5px;
+}
+.affiliate > .code{
+    color: #40938c;
+    border: #40938c 2px solid;
+    margin-left: -1%;
+    padding: 0.7% 2%;
+    border-radius: 0px 5px 5px 0px;
+}
+
+.submit-btn{
+    background-color: #003049;
+    border-radius: 50%;
+    padding: 2%;
+    width: 10%;
+    float: right;
+}
+
+.promo-img{
+    width: 100%;
+    border-radius: 1%;
+}
+
+footer h6{
+    color: #a8dadc;
+}
+
+footer p{
+    color: rgba(168,218,220,.8);
+    font-size: .8em;
+}
+
+footer > .row{
+    padding: 1.5% 0;
+}
+
+footer span{
+    color: #fff;
+    font-size: .8em;
+}
+
+footer .sponsors img{
+    width: 30%;
+}
+
+footer .logo{
+    width: 100%;
+}
+
+footer .logo img{
+    width: 20%;
+}
+
+footer{
+    background: #335a6d;
+    padding: 3% 10%;
+}
